@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  week_day: 1
+  opens_at: 2022-08-06 20:50:35
+  closes_at: 2022-08-06 20:50:35
+
+two:
+  week_day: 1
+  opens_at: 2022-08-06 20:50:35
+  closes_at: 2022-08-06 20:50:35
